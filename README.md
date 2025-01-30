@@ -48,8 +48,10 @@ KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privaneti
 ```
 *Replace `ENTER_YOUR_KEYSTORE_PASSWORD` with your actual password.*
 
-#### 🔤 Check Node Status on Web
-#### 🔤 Stake Your Tokens
+#### 🔤 Check Node Status on Web or you can check docker healt
+```bash
+docker logs -f (code after your run node)
+```
 
 🔗 [Repository Link](https://github.com/yourgithub/privasea-node)
 
@@ -59,7 +61,6 @@ Feel free to fork this repository, suggest improvements, or open issues for disc
 ## 📧 Contact
 - GitHub: [@Bagasdwipa](https://github.com/Bagasdwipa)
 - Twitter: [@bagasdwiprtama](https://twitter.com/bagasdwiprtama)
-- Email: your@email.com
 
 ---
 
